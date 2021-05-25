@@ -1,6 +1,6 @@
 # MS-CornerNet
 
-This is a  pytorch implementation of MS-CornerNet, an extension of the CornerNet paper(https://arxiv.org/abs/1808.01244) to work on RGB+T inputs, specifically the kaist dataset. This repository is extended from the base code at: https://github.com/zzzxxxttt/pytorch_simple_CornerNet and the matlab testing code is taken from https://github.com/Li-Chengyang/MSDS-RCNN with slight modifications.
+This is a pytorch implementation of MS-CornerNet, a Multispectral extension of the CornerNet paper(https://arxiv.org/abs/1808.01244) to work on RGB+T (Thermal) inputs, specifically the kaist dataset. This repository is extended from the base code at: https://github.com/zzzxxxttt/pytorch_simple_CornerNet and the matlab testing code is taken from https://github.com/Li-Chengyang/MSDS-RCNN with slight modifications.
  
 ## Requirements:
 - python>=3.5
